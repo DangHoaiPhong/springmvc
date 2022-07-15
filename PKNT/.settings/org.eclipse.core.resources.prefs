@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/PKNT/Controller/Amin/AdminCotroller.java=UTF-8
+encoding//src/main/java/PKNT/Controller/User/UserController.java=UTF-8
+encoding//src/main/java/PKNT/Dao/BillsDao.java=UTF-8
+encoding//src/main/java/PKNT/Dao/ProductsDao.java=UTF-8
+encoding//src/main/java/PKNT/Service/User/PaginateServiceImpl.java=UTF-8

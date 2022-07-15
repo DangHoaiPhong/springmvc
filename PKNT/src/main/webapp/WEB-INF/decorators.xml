@@ -1,0 +1,11 @@
+<decorators defaultdir="/WEB-INF/views/layouts">
+	<decorator name="user" page="user.jsp">
+		<pattern>/*</pattern>
+	</decorator>
+	<decorator name="admin" page="quantri.jsp">
+		<pattern>/quan-tri/*</pattern>
+	</decorator>
+	<decorator name="account" page="login.jsp">
+		<pattern>/account/*</pattern>
+	</decorator>
+</decorators>
